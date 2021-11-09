@@ -5,17 +5,28 @@
     height: 200px;
     width: 200px;
     border: black solid thin;
+    border-radius: 5%;
+    background-color: silver;
 }
 
+
 .norm{
+    padding: 20px;
+    margin: 40px;
   color: black;
+    border: black solid thin;
+    border-radius: 5%;
+
 }
 
 .red {
   color: red;
+    padding: 20px;
+    margin: 40px;
+    border: black solid thin;
+    border-radius: 5%;
 }
 
  .off {
-   opacity: 0.5;
-     border-color: red;
+     border-color: white;
  }
