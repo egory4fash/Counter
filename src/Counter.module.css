@@ -1,0 +1,10 @@
+.num {
+    color: gold;
+    font-size:50px;
+    font-weight: bolder;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;
+    font-weight: 60;
+}
